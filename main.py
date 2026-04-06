@@ -1,3 +1,2 @@
 import aiogram
-print('hello world!')
-print('My first project')
+print('hello world
